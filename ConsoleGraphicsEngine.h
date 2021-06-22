@@ -5,6 +5,9 @@ powerful and becomes a major performance bottleneck but it's a fun way to start
 off on graphics programming.
 Much of the actual windows API programming was 'borrowed' from OneLoneCoder on Youtube (link below).
 
+To use, just include the "ConsoleGraphicsEngine.h" file in your project and create an instance
+of the ConsoleGraphicsEngine class.
+
 -Zach
 
 https://github.com/OneLoneCoder
